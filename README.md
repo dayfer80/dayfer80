@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @dayfer80
-- 👀 I’m interested in learning python SQL and Ruby
+- 👋 Hi, I’m @dayfer
+- 👀 I’m interested in learning Python SQL and Ruby
 - 🌱 I’m currently learning Python at beginer level
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
 
 <!---
 dayfer80/dayfer80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
